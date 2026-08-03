@@ -5,6 +5,7 @@ import cors from 'cors';
 import dotenv from 'dotenv';
 import { startTrafficSimulation, MetricPayload } from './simulator';
 import { analyzeThreatWithAI, SecurityDiagnosis } from './aiAgent';
+import { pool } from './config/database';
 
 dotenv.config();
 
