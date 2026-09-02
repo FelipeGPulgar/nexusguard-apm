@@ -53,3 +53,6 @@ nexusguard-apm/
 
 ## 📜 Licencia
 Desarrollado con ❤️ por **Felipe**. Licencia MIT.
+
+
+<img width="1890" height="935" alt="image" src="https://github.com/user-attachments/assets/d5f126a5-8019-4f5a-870b-b319abe4c098" />
